@@ -1,4 +1,4 @@
-# grepolis 
+# grepolis CRIGL SÓ MODIFICAR pronto usar bot
 // ==UserScript==
 // @name cgL-pppp
 // @namespace https://crigl.com/
